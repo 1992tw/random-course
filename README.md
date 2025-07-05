@@ -1,2 +1,3 @@
-# random-course
-desc
+# Random Course
+
+NO DESC
